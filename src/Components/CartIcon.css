@@ -1,0 +1,16 @@
+span {
+    position: absolute;
+    display: block;
+    margin:auto;
+    right:10px;
+    top:3px;
+    width:18px;
+    text-align:center;
+    color:blue
+    
+}
+i {
+    margin-right:20px;
+    position: relative;
+    
+}

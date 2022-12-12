@@ -1,0 +1,1 @@
+export const Remove_From_Cart  = 'Remove_From_Cart'
